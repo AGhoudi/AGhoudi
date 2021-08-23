@@ -4,3 +4,5 @@
 test
 
 <span style="color:blue">some *blue* text</span>
+
+<span style="color:blue">some *This is Blue italic.* text</span>
