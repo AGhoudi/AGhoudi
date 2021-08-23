@@ -6,3 +6,12 @@ test
 <span style="color:blue">some *blue* text</span>
 
 <span style="color:blue">some *This is Blue italic.* text</span>
+
+// resets
+s { text-decoration:none; } //strike-through
+em { font-style: normal; font-weight: bold; } //italic emphasis
+
+
+// colors
+s { color: green }
+em { color: blue }
