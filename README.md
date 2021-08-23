@@ -17,3 +17,5 @@ s { color: green }
 em { color: blue }
 
 <font color='red'>test blue color font</font>
+
+**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
