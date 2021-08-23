@@ -15,3 +15,5 @@ em { font-style: normal; font-weight: bold; } //italic emphasis
 // colors
 s { color: green }
 em { color: blue }
+
+<font color='red'>test blue color font</font>
