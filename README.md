@@ -2,4 +2,4 @@
 <h1 align=center> 🙋🏻‍♂️  Bienvenue sur mon profil github </h1>
 <h2 align=center> Je m'appelle Ali, je suis un développeur informatique qui s'est spécialisé au fil des années, sur la conception d'applications orientées web et de sites internet. </h2>
 
-je suis un 
+je suis
