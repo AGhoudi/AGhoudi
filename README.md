@@ -9,5 +9,5 @@
 au fur et à mesure dans les langages Javascript et PHP.
 J'utilise désormais régulièrement la librairie React et le framework Symfony.</h2>
 <h1 align=center>✨ Qu'est-ce qui me motive?</h1>
-<h2 align=center>J'aime beaucoup de choses dans le développement web, notamment de pouvoir apprendre de nouvelles choses tous les jours, mais aussi le plaisir de la découverte. Le fait que chaque projet est une nouvelle aventure, différente et originale.<br />
+<h2 align=center>J'aime beaucoup de choses dans le développement web, notamment de pouvoir apprendre de nouvelles choses tous les jours, mais aussi le plaisir de la découverte.<br /> Le fait que chaque projet est une nouvelle aventure, différente et originale.<br />
 Ce qui est motivant est la progression et le challenge que procure ce métier.</h2>
