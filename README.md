@@ -11,3 +11,5 @@ J'utilise désormais régulièrement la librairie React et le framework Symfony.
 <h1 align=center>✨ Qu'est-ce qui me motive?</h1>
 <h2 align=center>J'aime beaucoup de choses dans le développement web, notamment le fait de pouvoir apprendre de nouvelles choses chaque jour, c'est le plaisir de la découverte.<br /> Mais aussi que chaque projet est une nouvelle aventure, différente et originale.<br />
 Ce qui est motivant est la progression et le challenge que procure ce métier.</h2>
+<br />
+<h3 align=center>Technoligies:</h3>
