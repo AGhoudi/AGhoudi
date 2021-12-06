@@ -12,7 +12,7 @@ J'utilise désormais régulièrement la librairie React et le framework Symfony.
 <h2 align=center>J'aime beaucoup de choses dans le développement web, notamment le fait de pouvoir apprendre de nouvelles choses chaque jour, c'est le plaisir de la découverte.<br /> Mais aussi que chaque projet est une nouvelle aventure, différente et originale.<br />
 Ce qui est motivant est la progression et le challenge que procure ce métier.</h2>
 <br />
-<h2 align=center>Langages et outils:</h2>
+<h2 align=center>🧰 Langages et outils:</h2>
 <div align=center>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
