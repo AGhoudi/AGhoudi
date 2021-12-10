@@ -47,3 +47,7 @@ Ce qui est motivant est la progression et le challenge que procure ce métier.</
 <div align=center>
   <img src="https://user-images.githubusercontent.com/27373255/145648849-65a4dd3a-55a7-4f8b-a47d-7dac7cacc0c0.png" alt="visite" />
 </div>
+<br />
+<div align=center>
+  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built with love" />
+</div>
