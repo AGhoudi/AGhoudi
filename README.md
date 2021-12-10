@@ -33,10 +33,12 @@ Ce qui est motivant est la progression et le challenge que procure ce métier.</
 </div>
 <br />
 <h2 align=center>📧 Mes informations de contact:</h2>
+<div align=center>
 <a href="https://www.linkedin.com/in/ali-ghoudi/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer"  >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:ali.ghoudi@gmail.com" role="link" target="_blank" class="text-bold" rel="noopener noreferrer"  >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
+</div>
 
