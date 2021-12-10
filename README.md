@@ -32,4 +32,5 @@ Ce qui est motivant est la progression et le challenge que procure ce métier.</
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 </div>
 <br />
-<h2 align=center>🧰 Mes informations de contact:</h2>
+<h2 align=center>📧 Mes informations de contact:</h2>
+[link](https://www.linkedin.com/in/ali-ghoudi/){:target="_blank"}
